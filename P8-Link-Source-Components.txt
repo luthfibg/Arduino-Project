@@ -1,0 +1,5 @@
+Penjelasan Relay:
+https://teknikece.com/relay/
+
+Penjelasan Transistor:
+https://pccontrol.files.wordpress.com/2011/05/npn-driver1.gif
